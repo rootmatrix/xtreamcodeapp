@@ -1,0 +1,13 @@
+{
+  "name": "nexora-preview",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Vista previa web de Nexora con proxy Xtream Codes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
